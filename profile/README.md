@@ -1,4 +1,8 @@
-<p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/dtuKUIfSsaG6oml9Y8/giphy.gif" width="100"/>
+</div>
+
+<p align="center">
 <a href="https://www.gnu.org/software/bash/"><img alt="Bash" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat"></a>
 <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat"></a>
